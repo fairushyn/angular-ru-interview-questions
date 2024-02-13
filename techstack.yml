@@ -1,0 +1,32 @@
+repo_name: fairushyn/angular-ru-interview-questions
+report_id: 02f3b408e388cdb33262a8b7a80b54aa
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-13T18:00:06+00:00'
+requested_by: dependabot[bot]
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fairushyn/angular-ru-interview-questions
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/fairushyn/angular-ru-interview-questions/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: splincode
+  last_updated_on: 2021-04-26 07:14:52.000000000 Z
